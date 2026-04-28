@@ -1,5 +1,5 @@
 # mini-project-labsheet8
-#  BookVault - PHP Bookstore
+# project-1 BookVault - PHP Bookstore and project2  Golden Crust Bakery
 
 ##  How to Run
 1. Install XAMPP / WAMP / MAMP
@@ -39,9 +39,8 @@ A simple bakery website built with HTML, CSS, JavaScript, PHP, and MySQL.
 ## How to Run
 1. Put the project folder in `htdocs`.
 2. Start Apache and MySQL in XAMPP.
-3. Create database: `golden_crust_bakery`.
-4. Import or create the required tables.
-5. Open:
+3. Import or create the required tables.
+4. Open:
    `http://localhost/golden-crust-bakery/index.php`
 
 ## Files
